@@ -5,7 +5,7 @@ The purpose of this program is to download selected attachments, based on a SOQL
 
 Author:      Rex Black
 
-Date:        09/11/19
+Date:        09/12/19
 
 Description: This program runs a query for attachments, and downloads them to a local file folder.
 
